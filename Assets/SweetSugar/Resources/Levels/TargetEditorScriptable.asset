@@ -328,22 +328,22 @@ MonoBehaviour:
             uiSprite: 0
     prefabs:
     - {fileID: 1119664270634208, guid: 44e5a071907d049f68644eff5934ff27, type: 3}
-  - name: wrap item
+  - name: WireBlock
     localization:
       description:
         text: Collect at least one star
-        index: 98
+        index: 100
       failed:
         text: You didn't collect a star
-        index: 99
+        index: 101
     collectAction: 0
-    setCount: 0
+    setCount: 1
     CanSwithSublevel: 0
     defaultSprites:
       array:
       - sprites:
           array:
-          - icon: {fileID: 21300000, guid: 193adf08b4b954b25bf2a5132abb256e, type: 3}
+          - icon: {fileID: 21300000, guid: faed6bf7fb1044a6aaee6aa60652bd5b, type: 3}
             uiSprite: 0
     prefabs:
-    - {fileID: 1119664270634208, guid: 925b3d7e6178642d081ff1c6b4a35ce6, type: 3}
+    - {fileID: 153778, guid: d7a0ec3bdb439fb43a4ec9e26fe3f22c, type: 3}

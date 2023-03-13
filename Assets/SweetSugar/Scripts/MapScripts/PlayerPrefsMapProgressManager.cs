@@ -70,7 +70,7 @@ namespace SweetSugar.Scripts.MapScripts
 
         public void OpenAllLevels()
         {
-            for (int i = 1; i < 1200; i++)
+            for (int i = 1; i < 1400; i++)
             {
                 SaveLevelStarsCount(i, 3);
             }

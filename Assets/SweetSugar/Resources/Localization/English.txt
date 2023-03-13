@@ -97,3 +97,5 @@
 97 : Fail to get horizontal items
 98 : Get Vertical items
 99 : Fail to get vertical items
+100: Get Cages
+101: Fail to get Cages

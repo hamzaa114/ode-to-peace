@@ -1,0 +1,99 @@
+0 : Life after
+1 : Any purchase will remove all ads
+2 : Do you want to continue?
+3 : Atom
+4 : ODE Coins
+5 : PLAY
+6 : You Win!
+7 : Sorry you lost!
+8 : Lost all lives?
+9 : Select Boosters:
+10 : NEXT
+11 : Choco Spiral
+12 : Spread the Jelly
+13 : BOOM!
+14 : GGG Gem
+15 : Day
+16 : WATCH VIDEO AD
+17 : Share
+18 : Level Achieved!
+19 : Level Failed!
+20 : Map
+21 : Again
+22 : Goal
+23 : Refill Lives!
+24 : Your Target:
+25 : CLAIM
+26 : Congrats!
+27 : Extra Moves
+28 : Extra Time
+29 : How to play
+30 : Striped Item
+31 : Wrapped Item
+33 : Collect These
+34 : GGG Gem
+35 : Logout
+36 : Connect
+37 : Invite
+38 : FULL
+39 : Use it to get GGG Gem
+40 : Buy
+41 : Moves
+42 : Combine items of the same color to WIN!
+43 : Score
+44 : Buy Boosters
+45 : Fail to spread all the Jelly
+46 : Spread the Jelly
+47 : You got coins
+48 : Combine 5 items of same color in one row to create a GGG Gem. A GGG Gem pops all items with the same color.
+49 : Combine more items of the same colors to WIN!
+50 : You can switch Choco Spiral with any item on the game field.
+51 : Combine an item next to the Jelly with others to spread the Jelly further.
+52 : Combine 4 items of same color to create a Stripe. A Striped item destroys an entire row.
+53 : Combine 5 items of same color to create a Package. A Packaged item destroys all items surrounding it.
+54 : GGG Gem
+55 : Collect these
+56 : Fail to collect the items
+57 : Get Peace & Love
+58 : Fail to collect Peace & Love
+59 : Pop Sunny Squares
+60 : Fail to pop the Sunny Squares
+61 : Spread the Jelly
+62 : Fail to spread the Jelly
+63 : Pop Solid Blocks
+64 : Fail to pop all Blocks
+65 : Give you an extra 5 moves
+66 : Place a Wrapped item in the game
+67 : Place a Striped item in the game
+68 : Gives you an extra 30 seconds
+69 : Pop an item
+70 : Place a GGG Gem in the game
+71 : Swap 2 items
+72 : Pop the items in an area
+73 : Place an Atom in the game
+74 : PLAY
+75 : Privacy
+76 : Loading...
+77 : Time
+78 : Wand
+79 : Free move
+80 : Pop an area
+81 : Atom
+82 : Free
+83 : Collect Flowers
+84 : Fail to collect Flowers
+85 : You got booster
+86 : Collect Atoms
+87 : Fail to collect Atoms
+88 : Free Swap
+89 : Tap To Skip
+90 : Get Star
+91 : Fail to get star
+92 : Get GGG Gem
+93 : Fail to get GGG Gem
+94 : Get Choco Spiral
+95 : Fail to get Choco Spiral
+96 : Get Horizontal items
+97 : Fail to get horizontal items
+98 : Get Vertical items
+99 : Fail to get vertical items
